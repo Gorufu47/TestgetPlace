@@ -1,0 +1,22 @@
+PODS:
+  - FoursquareAPIClient (5.0.1)
+  - SDWebImage (4.1.0):
+    - SDWebImage/Core (= 4.1.0)
+  - SDWebImage/Core (4.1.0)
+
+DEPENDENCIES:
+  - FoursquareAPIClient
+  - SDWebImage
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FoursquareAPIClient
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  FoursquareAPIClient: 83c932298e905634e0c0cce90e3f1d6897c7a7a9
+  SDWebImage: 0e435c14e402a6730315a0fb79f95e68654d55a4
+
+PODFILE CHECKSUM: eb883608789e54f644a6e93b6b1a9600531c136c
+
+COCOAPODS: 1.9.3
